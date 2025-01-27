@@ -1,0 +1,37 @@
+---
+title: "quangnhatm1.github.io"
+output: html_document
+---
+
+# **Introduction**
+This repository is only for my introduction. You can view my profile below.
+
+## **I. Summary**
+My name is Quang Le. I am a junior student at the University of Houston - Downtown *(UHD)*, majoring in Mathematics and Statistics, minoring in Actuarial Mathematics. 
+I am also an active member of the UHD Scholars Academy and Honors Program. In January 2025, I received the UHD Scholars Academy Scholarship.
+
+## **II. Education**
+### *Houston Community College Systems (HCCS)* - *A.A Business Administration & Management*
+*August 2023 - December 2024*
+
+#### **My courses at HCCS:**
+1. Principles of Accounting I
+2. Principles of Economics I
+3. Business Law
+4. Business Statistics
+5. Principles of Marketing
+
+## **III. Goals and Achievements**
+- **Recipient of UHD Scholars Academy Scholarship**
+- **International Student Ambassador** for the 2024-2025 academic year
+- **Internship** at the Recreational Sports Department, focusing on data analysis and visualization
+- **Supplemental Instructional Leader** at UHD, teaching Chemistry 1 and Chemistry 2
+
+## **IV. Career Objectives**
+- To secure two internships in the actuarial field or research field during each summer semester
+- To pass all three preliminary exams from the Society of Actuaries (SOA)
+- To join the Casualty Actuarial Society (CAS) and become a fully qualified actuary
+
+## **V. Contact Information**
+- **Email:** quangnhatm1@example.com
+- **LinkedIn:** [Quang Le](https://www.linkedin.com/in/quang-le/)
