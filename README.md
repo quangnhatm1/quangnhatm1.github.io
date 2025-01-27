@@ -1,4 +1,9 @@
 # quangnhatm1.github.io
+
+title: "My introduction"
+author: "Quang Le"
+date: "01/26/2025"
+
 # **Introduction**
  
 This repository is only for my introduction. You can view my profile below. 
