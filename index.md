@@ -81,7 +81,7 @@ body {
 ::: centered
 <h1>**Quang Nhat Minh Le**</h1>
 
-<p>`r format(Sys.time(), '%d %B, %Y')`</p>
+<p>28 January, 2025</p>
 
 <img src="C:\Users\lequa\Downloads\Quang Le portrait.jpg" alt="Quang Le" style="width:100px;height: auto;"/>
 :::
