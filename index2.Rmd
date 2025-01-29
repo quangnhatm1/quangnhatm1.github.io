@@ -3,7 +3,7 @@ title: "*University of Houston Downtown (UHD)*"
 author: "*Quang Le*"
 output: 
   html_document:
-    permalink: /mission-vision/ 
+    permalink: "https://quangnhatm1.github.io/mission-vision"
     keep_md: true
     toc: true
     toc_depth: 3
