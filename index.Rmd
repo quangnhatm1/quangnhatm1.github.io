@@ -68,7 +68,7 @@ body {
 
 <p>`r format(Sys.time(), '%d %B, %Y')`</p>
 
-<img src="C:\Users\lequa\Downloads\Quang Le Portrait 1.jpg" alt="Quang Le" style="width:100px;height: auto;"/>
+<img src="C:\Users\lequa\Downloads\Quang Le Portrait 1.jpg" alt="Quang Le" style="width:300px;height: 300px;"/>
 :::
 
 ***Note: This page is only for my profile, serving as my digital biography.***
@@ -185,6 +185,11 @@ My name is **Quang Nhat Minh Le**. I am a junior student at the *University of H
 -   **Personal Email:** [lequangnhatminh\*\*\*\@gmail.com](mailto:lequangnhatminh946@gmail.com){.email}
 -   **Workplace Email:** [le**@uhd.edu](mailto:leq@uhd.edu){.email} 
 -   **LinkedIn:** [Quang Le](https://www.linkedin.com/in/minh-quang-le1/)
+
+::: centered
+<h3>**QR CODE FOR THIS PAGE!**</h3>
+<img src="C:\Users\lequa\Downloads\frame.png" alt="Quang Le" style="width:300px;height: 300px;"/>
+:::
 
 ```{=html}
 <div style="background-color: black; text-align: center; padding: 10px;">
