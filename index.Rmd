@@ -21,7 +21,7 @@ output:
 }
 body {
 
-  font-size: 13pt;
+  font-size: 12pt;
   font-family: "Times New Roman", Times, serif;
 }
 .navbar {
@@ -184,7 +184,7 @@ My name is **Quang Nhat Minh Le**. I am a junior student at the *University of H
 
 -   **Personal Email:** [lequangnhatminh\*\*\*\@gmail.com](mailto:lequangnhatminh946@gmail.com){.email}
 -   **Workplace Email:** [le**@uhd.edu](mailto:leq@uhd.edu){.email} 
--   **LinkedIn:** [Quang Le](www.linkedin.com/in/minh-quang-le1)
+-   **LinkedIn:** [Quang Le](https://www.linkedin.com/in/minh-quang-le1/)
 
 ```{=html}
 <div style="background-color: black; text-align: center; padding: 10px;">
