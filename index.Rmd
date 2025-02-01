@@ -58,7 +58,7 @@ body {
 <img src="C:\Users\lequa\Downloads\Quang Le Portrait 1.jpg" alt="Quang Le" style="width:300px;height: 300px;"/>
 :::
 
-***Note: This page is only for my profile, serving as my digital biography.***
+***<u>Note:</u> This page is only for my profile, serving as my digital biography.***
 
 # **I. Summary**
 
