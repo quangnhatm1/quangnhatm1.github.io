@@ -37,7 +37,7 @@ body {
   text-decoration: none;
 }
 
-.navbar a:hover,.dropdown:hover .dropbtn {
+.navbar a:hover, .dropdown:hover .dropbtn {
   background-color: #ddd;
   color: black;
 }
@@ -47,24 +47,30 @@ body {
   <a href="https://quangnhatm1.github.io">About Me</a>
   <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-mission-vision/">Mission and Vision</a> 
   <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-forms/">Forms</a> 
-  <a href="https://quangnhatm1.github.io/Activities">Activities</a>
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-policies-procedures/">Policies</a>
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-activities/">Activities</a>
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-projects/">Projects</a>
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-QA/">Q&A</a>
       </div>
 ```
 ::: centered
+***WELCOME TO MY PROFILE! &#128512;***
 <h1>**Quang Nhat Minh Le**</h1>
 
 <p>`r format(Sys.time(), '%d %B, %Y')`</p>
 
 <img src="C:\Users\lequa\Downloads\Quang Le Portrait 1.jpg" alt="Quang Le" style="width:300px;height: 300px;"/>
+
+*Portrait of Quang Le*
 :::
 
 ***<u>Note:</u> This page is only for my profile, serving as my digital biography.***
 
-# **I. Summary**
+# **<u>I. Summary</u>**
 
 My name is **Quang Nhat Minh Le**. I am a junior student at the *University of Houston - Downtown (UHD)*, majoring in *Mathematics and Applied Statistics, minoring in Actuarial Mathematics*. I am also an active member of the *UHD [Scholars Academy](https://www.uhd.edu/academics/sciences/scholars/) and [Honors Program](https://www.uhd.edu/provost/honors-program/).*
 
-# **II. Education**
+# **<u>II. Education</u>**
 
 ## **1. University of Houston Downtown (UHD)**
 
@@ -107,7 +113,7 @@ My name is **Quang Nhat Minh Le**. I am a junior student at the *University of H
 | GOVT 2305 | Federal Government | Fall 2023 | A | 3.00 |
 | PSYC 2301 | General Psychology | Fall 2023 | A | 3.00 |
 
-# **III. Professional Experience**
+# **<u>III. Professional Experience</u>**
 
 -   ***Supplemental Instructional Leader, University of Houston Downtown - Houston, TX*** (January 2025 – Present)
 
@@ -129,14 +135,14 @@ My name is **Quang Nhat Minh Le**. I am a junior student at the *University of H
     -   Supervised classroom behavior effectively and ensured that all students were engaged and focused during tutoring sessions.
     -   Focused on students with poor math knowledge and new Vietnamese students for both ESL and Math subjects.
 
-# **IV. Projects**
+# **<u>IV. Projects</u>**
 
 -   ***Houston Community College Project, Houston Community College – Houston, TX*** (September 2024 – January 2025)
     -   Generated, automated, and implemented comprehensive standard operating procedures to effectively capture and engage student participants for the Recreational Sports Department.
     -   Conducted in-depth data analysis for the department, identifying key performance indicators and improving reporting accuracy.
     -   Optimized departmental database and tracked student trends to forecast future departmental goals.
 
-# **V. Volunteer Service**
+# **<u>V. Volunteer Service</u>**
 
 -   ***HCC International Student Ambassador – Houston Community College – Houston, TX*** (June 2024 – January 2025)
     -   Coordinated and organized orientation sessions for new international students.
@@ -145,7 +151,7 @@ My name is **Quang Nhat Minh Le**. I am a junior student at the *University of H
     -   Perform inspection and sort donated food items to ensure they are safe and suitable for distribution.
     -   Support on-site programs by helping clients navigate the distribution process, answering questions as needed.
 
-# **VI. Skills**
+# **<u>VI. Skills</u>**
 
 -   *Technical Skills:*
     -   **Office Tools:** Advanced in VBA Excel, PowerPoint, Word, Adobe Reader, Access, Forms, Power BI, Outlook.
@@ -154,20 +160,20 @@ My name is **Quang Nhat Minh Le**. I am a junior student at the *University of H
     -   Fluent in Vietnamese and English.
     -   Proficient in collaborative problem solving, communication, and decision - making process.
 
-# **VII. Memberships and Awards**
+# **<u>VII. Memberships and Awards</u>**
 
 -   **STEM Scholars Academy Scholarship** (January 2025)
 -   **Member of Society of Actuary (SOA)** (June 2024)
 -   **Phi Theta Kappa Membership and Certifications** (March 2024)
 -   **Microsoft Office Specialist certifications (Excel, Word)** (June 2022)
 
-# **VIII. Career Objectives**
+# **<u>VIII. Career Objectives</u>**
 
 -   To secure two internships in the actuarial field or research field during each summer semester
 -   To pass all three preliminary exams from the Society of Actuaries (SOA): ***Exam FM, Exam P, and Exam FAM***
 -   To join the Casualty Actuarial Society (CAS) and become a fully qualified actuary
 
-# **IX. Contact Information**
+# **<u>IX. Contact Information</u>**
 
 -   **Personal Email:** [lequangnhatminh\*\*\*\@gmail.com](mailto:lequangnhatminh946@gmail.com){.email}
 -   **Workplace Email:** [le**@uhd.edu](mailto:leq@uhd.edu){.email} 
