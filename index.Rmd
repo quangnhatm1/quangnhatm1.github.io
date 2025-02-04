@@ -78,17 +78,33 @@ My name is **Quang Nhat Minh Le**. I am a junior student at the *University of H
 
 ***Bachelor of Science in Mathematics & Applied Statistics, minoring in Actuarial Mathematics.***
 
+```{=html}
+<span style="color: red; font-weight: bold; font-style: italic; font-size: 20pt">Courses at UHD</span>
+```
+
+***<u>Note: All of the courses I am taking at UHD are now in progress.</u>***
+
+| **Course Number** | **Course Title** | **Term** | **Grade** | **Credits** |
+|-------------|----------------------|-------------|-------------|-------------|
+| DATA 2401 | Data Science I | Spring 2025 | In Progress | N/A |
+| MATH 2307 | Linear Algebra | Spring 2025 | In Progress | N/A |
+| MATH 2402 | Calculus II | Spring 2025 | In Progress | N/A |
+| STAT 3311 | Stat Analysis for Nat Science | Spring 2025 | In Progress | N/A |
+| UHD 2303 | University Seminar - Sciences | Spring 2025 | In Progress | N/A |
+
 ## **2. Houston Community College System (HCCS)**
 
 *Started from August 2023 to December 2024.*
 
 ***A.A Business Administration & Management - Highest Honors (GPA: 4.0).***
 
-### ***Courses at HCCS*** 
+```{=html}
+<span style="color: red; font-weight: bold; font-style: italic; font-size: 20pt">Courses at HCCS</span>
+``` 
 
-**This is all of my courses that I successfully taken at HCCS:**
+***<u>This is all of my courses that I successfully taken at HCCS:</u>***
 
-| **Course Code** | **Course Title** | **Term** | **Grade** | **Credits** |
+| **Course Number** | **Course Title** | **Term** | **Grade** | **Credits** |
 |-------------|----------------------|-------------|-------------|-------------|
 | ARTS 1303 | Art History I | Fall 2024 | A | 3.00 |
 | BCIS 1305 | Business Computer Applications | Fall 2024 | A | 3.00 |
