@@ -10,6 +10,9 @@ output:
       collapsed: false
       smooth_scroll: true
 ---
+```{=html}
+    <img src="C:\Users\lequa\Downloads\commerce.jpg" alt="Cover Photo" style="width:100%; height: 300px;"/>
+```
 
 
 ```{=html}
@@ -59,7 +62,7 @@ body {
 
 <p>`r format(Sys.time(), '%d %B, %Y')`</p>
 
-<img src="C:\Users\lequa\Downloads\Quang Le Portrait 1.jpg" alt="Quang Le" style="width:300px;height: 300px;"/>
+<img src="C:\Users\lequa\Downloads\1731822503085.jpg" alt="Quang Le" style="width:300px;height: 300px;"/>
 
 *Portrait of Quang Le*
 :::
@@ -200,10 +203,25 @@ My name is **Quang Nhat Minh Le**. I am a junior student at the *University of H
 <img src="C:\Users\lequa\Downloads\frame.png" alt="Quang Le" style="width:300px;height: 300px;"/>
 :::
 
+
 ```{=html}
-<div style="background-color: black; text-align: center; padding: 10px;">
-    <p style="color: white;">&copy; 2025 Quang Le | <a href="https://www.uhd.edu" style="color: white; text-decoration: none;">University of Houston - Downtown |  <a href="https://www.hccs.edu/" style="color: white; text-decoration: non; ">Houston Community College System </a></p>
-</div> 
+<div style="position: fixed; right: 20px; bottom: 20px; background-color: #008cba; color: white; padding: 10px 20px; border-radius: 5px; text-align: center; font-size: 13pt; text-decoration: none;">
+    <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-mission-vision/" style="color: white; text-decoration: none; font-weight: bold;">Next Page →</a>
+</div>
+    
+```
+
+
+```{=html}
+<div style="background-color: black; display: flex; align-items: center; padding: 10px;">
+    <a href="https://www.uhd.edu" style="margin-right: auto;">
+        <img src="C:\Users\lequa\Downloads\UHD-Logo-Corporate.png" alt="UHD Logo" style="height: 50px; wide: 50 px">
+    </a>
+    <p style="color: white; margin: 5;">&copy; 2025 Quang Le | 
+        <a href="https://www.uhd.edu" style="color: white; text-decoration: none;">University of Houston - Downtown</a> | 
+        <a href="https://www.uhd.edu/sssl/supplemental-instruction/index.aspx" style="color: white; text-decoration: none;">Supplemental Instruction Program|</a>
+    </p>
+</div>
 ```
 
 
