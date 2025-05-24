@@ -1,6 +1,6 @@
 ---
 title: "*University of Houston Downtown (UHD)*"
-author: "*Quang Le*"
+author: "*Minh Le*"
 output: 
   html_document:
     keep_md: true
@@ -57,21 +57,21 @@ body {
       </div>
 ```
 ::: centered
-***WELCOME TO MY PROFILE! &#128512;***
-<h1>**Quang Nhat Minh Le**</h1>
+***WELCOME TO MY PROFILE***
+<h1>**MINH QUANG NHAT LE**</h1>
 
 <p>`r format(Sys.time(), '%d %B, %Y')`</p>
 
 <img src="C:\Users\lequa\Downloads\1731822503085.jpg" alt="Quang Le" style="width:300px;height: 300px;"/>
 
-*Portrait of Quang Le*
+*Portrait of Minh Le*
 :::
 
 ***<u>Note:</u> This page is only for my profile, serving as my digital biography.***
 
 # **<u>I. Summary</u>**
 
-My name is **Quang Nhat Minh Le**. I am a junior student at the *University of Houston - Downtown (UHD)*, majoring in *Mathematics and Applied Statistics, minoring in Actuarial Mathematics*. I am also an active member of the *UHD [Scholars Academy](https://www.uhd.edu/academics/sciences/scholars/) and [Honors Program](https://www.uhd.edu/provost/honors-program/).*
+My name is **Minh Le**, you can also call me Quang (my old name). I am a junior student at the *University of Houston - Downtown (UHD)*, majoring in *Mathematics and Applied Statistics, minoring in Actuarial Mathematics*. I am also an active member of the *UHD [Scholars Academy](https://www.uhd.edu/academics/sciences/scholars/) and [Honors Program](https://www.uhd.edu/provost/honors-program/).*
 
 # **<u>II. Education</u>**
 
@@ -85,15 +85,15 @@ My name is **Quang Nhat Minh Le**. I am a junior student at the *University of H
 <span style="color: red; font-weight: bold; font-style: italic; font-size: 20pt">Courses at UHD</span>
 ```
 
-***<u>Note: All of the courses I am taking at UHD are now in progress.</u>***
+***<u>Note: All of the courses I am taking at UHD are now in progress in the summer and fall 2025.</u>***
 
 | **Course Number** | **Course Title** | **Term** | **Grade** | **Credits** |
 |-------------|----------------------|-------------|-------------|-------------|
-| DATA 2401 | Data Science I | Spring 2025 | In Progress | N/A |
-| MATH 2307 | Linear Algebra | Spring 2025 | In Progress | N/A |
-| MATH 2402 | Calculus II | Spring 2025 | In Progress | N/A |
-| STAT 3311 | Stat Analysis for Nat Science | Spring 2025 | In Progress | N/A |
-| UHD 2303 | University Seminar - Sciences | Spring 2025 | In Progress | N/A |
+| DATA 2401 | Data Science I | Spring 2025 | A | 4.00 |
+| MATH 2307 | Linear Algebra | Spring 2025 | A | 3.00 |
+| MATH 2402 | Calculus II | Spring 2025 | A | 4.00 |
+| STAT 3311 | Stat Analysis for Nat Science | Spring 2025 | A | 3.00 |
+| UHD 2303 | University Seminar - Sciences | Spring 2025 | A | 3.00 |
 
 ## **2. Houston Community College System (HCCS)**
 
@@ -180,7 +180,7 @@ My name is **Quang Nhat Minh Le**. I am a junior student at the *University of H
     -   Proficient in collaborative problem solving, communication, and decision - making process.
 
 # **<u>VII. Memberships and Awards</u>**
-
+-   **Peer-Led Team Learning Training DOED** (May 2025)
 -   **STEM Scholars Academy Scholarship** (January 2025)
 -   **Member of Society of Actuary (SOA)** (June 2024)
 -   **Phi Theta Kappa Membership and Certifications** (March 2024)
