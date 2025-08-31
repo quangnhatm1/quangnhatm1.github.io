@@ -71,7 +71,7 @@ body {
 
 # <u>I. Summary</u>
 
-My name is **Minh Le**, you can also call me Quang (my old name). I am a junior student at the *University of Houston - Downtown (UHD)*, majoring in *Mathematics and Applied Statistics, minoring in Actuarial Mathematics*. I am also an active member of the *UHD [Scholars Academy](https://www.uhd.edu/academics/sciences/scholars/)*
+My name is **Minh Le**, you can also call me Quang (my old name). I am a junior student at the *University of Houston - Downtown (UHD)*, majoring in *Mathematics and Applied Statistics, minoring in Actuarial Mathematics*. I am also an active member of the *UHD [Scholars Academy](https://www.uhd.edu/academics/sciences/scholars/)*. 
 
 # <u>II. Education</u>
 
