@@ -10,10 +10,8 @@ output:
       collapsed: false
       smooth_scroll: true
 ---
-```{=html}
-    <img src="C:\Users\lequa\Downloads\commerce.jpg" alt="Cover Photo" style="width:100%; height: 300px;"/>
-```
 
+<img src="C:\Users\lequa\Downloads\commerce.jpg" alt="Cover Photo" style="width:100%; height: 300px;"/>
 
 ```{=html}
 <style>
@@ -56,8 +54,10 @@ body {
   <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-QA/">Q&A</a>
       </div>
 ```
+
 ::: centered
 ***WELCOME TO MY PROFILE***
+
 <h1>**MINH QUANG NHAT LE**</h1>
 
 <p>`r format(Sys.time(), '%d %B, %Y')`</p>
@@ -67,13 +67,13 @@ body {
 *Portrait of Minh Le*
 :::
 
-***<u>Note:</u> This page is only for my profile, serving as my digital biography.***
+<u>Note:</u> This page is only for my profile, serving as my digital biography.
 
-# **<u>I. Summary</u>**
+# <u>I. Summary</u>
 
-My name is **Minh Le**, you can also call me Quang (my old name). I am a junior student at the *University of Houston - Downtown (UHD)*, majoring in *Mathematics and Applied Statistics, minoring in Actuarial Mathematics*. I am also an active member of the *UHD [Scholars Academy](https://www.uhd.edu/academics/sciences/scholars/) and [Honors Program](https://www.uhd.edu/provost/honors-program/).*
+My name is **Minh Le**, you can also call me Quang (my old name). I am a junior student at the *University of Houston - Downtown (UHD)*, majoring in *Mathematics and Applied Statistics, minoring in Actuarial Mathematics*. I am also an active member of the *UHD [Scholars Academy](https://www.uhd.edu/academics/sciences/scholars/)*
 
-# **<u>II. Education</u>**
+# <u>II. Education</u>
 
 ## **1. University of Houston Downtown (UHD)**
 
@@ -85,10 +85,10 @@ My name is **Minh Le**, you can also call me Quang (my old name). I am a junior 
 <span style="color: red; font-weight: bold; font-style: italic; font-size: 20pt">Courses at UHD</span>
 ```
 
-***<u>Note: All of the courses I am taking at UHD are now in progress in the summer and fall 2025.</u>***
+<u>Note: All of the courses I am taking at UHD are now in progress in the summer and fall 2025.</u>
 
 | **Course Number** | **Course Title** | **Term** | **Grade** | **Credits** |
-|-------------|----------------------|-------------|-------------|-------------|
+|---------------|---------------|---------------|---------------|---------------|
 | DATA 2401 | Data Science I | Spring 2025 | A | 4.00 |
 | MATH 2307 | Linear Algebra | Spring 2025 | A | 3.00 |
 | MATH 2402 | Calculus II | Spring 2025 | A | 4.00 |
@@ -103,12 +103,12 @@ My name is **Minh Le**, you can also call me Quang (my old name). I am a junior 
 
 ```{=html}
 <span style="color: red; font-weight: bold; font-style: italic; font-size: 20pt">Courses at HCCS</span>
-``` 
+```
 
-***<u>This is all of my courses that I successfully taken at HCCS:</u>***
+<u>This is all of my courses that I successfully taken at HCCS:</u>
 
 | **Course Number** | **Course Title** | **Term** | **Grade** | **Credits** |
-|-------------|----------------------|-------------|-------------|-------------|
+|---------------|---------------|---------------|---------------|---------------|
 | ARTS 1303 | Art History I | Fall 2024 | A | 3.00 |
 | BCIS 1305 | Business Computer Applications | Fall 2024 | A | 3.00 |
 | BUSI 2305 | Business Statistics | Fall 2024 | A | 3.00 |
@@ -132,9 +132,15 @@ My name is **Minh Le**, you can also call me Quang (my old name). I am a junior 
 | GOVT 2305 | Federal Government | Fall 2023 | A | 3.00 |
 | PSYC 2301 | General Psychology | Fall 2023 | A | 3.00 |
 
-# **<u>III. Professional Experience</u>**
+# <u>III. Professional Experience</u>
 
--   ***Supplemental Instructional Leader, University of Houston Downtown - Houston, TX*** (January 2025 – Present)
+-   ***Project Assistant at Marilyn Davies College of Business, University of Houston Downtown - Houston, TX*** (August 2025 – Present)
+
+    -   Assist in gathering and organizing data and information to support the college’s academic and operational activities.
+    -   Assist in developing annual internal college reports.
+    -   Other duties as assigned.
+
+-   ***Supplemental Instructional Leader, University of Houston Downtown - Houston, TX*** (January 2025 – August 2025)
 
     -   Participate in all class meetings, ensuring comprehensive understanding of homework, reading assignments, and projects.
     -   Lead at least two 60-minute small group study sessions per week throughout the semester.
@@ -154,14 +160,14 @@ My name is **Minh Le**, you can also call me Quang (my old name). I am a junior 
     -   Supervised classroom behavior effectively and ensured that all students were engaged and focused during tutoring sessions.
     -   Focused on students with poor math knowledge and new Vietnamese students for both ESL and Math subjects.
 
-# **<u>IV. Projects</u>**
+# <u>IV. Projects</u>
 
 -   ***Houston Community College Project, Houston Community College – Houston, TX*** (September 2024 – January 2025)
     -   Generated, automated, and implemented comprehensive standard operating procedures to effectively capture and engage student participants for the Recreational Sports Department.
     -   Conducted in-depth data analysis for the department, identifying key performance indicators and improving reporting accuracy.
     -   Optimized departmental database and tracked student trends to forecast future departmental goals.
 
-# **<u>V. Volunteer Service</u>**
+# <u>V. Volunteer Service</u>
 
 -   ***HCC International Student Ambassador – Houston Community College – Houston, TX*** (June 2024 – January 2025)
     -   Coordinated and organized orientation sessions for new international students.
@@ -170,7 +176,7 @@ My name is **Minh Le**, you can also call me Quang (my old name). I am a junior 
     -   Perform inspection and sort donated food items to ensure they are safe and suitable for distribution.
     -   Support on-site programs by helping clients navigate the distribution process, answering questions as needed.
 
-# **<u>VI. Skills</u>**
+# <u>VI. Skills</u>
 
 -   *Technical Skills:*
     -   **Office Tools:** Advanced in VBA Excel, PowerPoint, Word, Adobe Reader, Access, Forms, Power BI, Outlook.
@@ -179,30 +185,31 @@ My name is **Minh Le**, you can also call me Quang (my old name). I am a junior 
     -   Fluent in Vietnamese and English.
     -   Proficient in collaborative problem solving, communication, and decision - making process.
 
-# **<u>VII. Memberships and Awards</u>**
+# <u>VII. Memberships and Awards</u>
+
 -   **Peer-Led Team Learning Training DOED** (May 2025)
 -   **STEM Scholars Academy Scholarship** (January 2025)
 -   **Member of Society of Actuary (SOA)** (June 2024)
 -   **Phi Theta Kappa Membership and Certifications** (March 2024)
 -   **Microsoft Office Specialist certifications (Excel, Word)** (June 2022)
 
-# **<u>VIII. Career Objectives</u>**
+# <u>VIII. Career Objectives</u>
 
 -   To secure two internships in the actuarial field or research field during each summer semester
 -   To pass all three preliminary exams from the Society of Actuaries (SOA): ***Exam FM, Exam P, and Exam FAM***
 -   To join the Casualty Actuarial Society (CAS) and become a fully qualified actuary
 
-# **<u>IX. Contact Information</u>**
+# <u>IX. Contact Information</u>
 
 -   **Personal Email:** [lequangnhatminh\*\*\*\@gmail.com](mailto:lequangnhatminh946@gmail.com){.email}
--   **Workplace Email:** [le**@uhd.edu](mailto:leq@uhd.edu){.email} 
+-   **Workplace Email:** [le\*\*\@uhd.edu](mailto:leq@uhd.edu){.email}
 -   **LinkedIn:** [Quang Le](https://www.linkedin.com/in/minh-quang-le1/)
 
 ::: centered
 <h3>**QR CODE FOR THIS PAGE!**</h3>
+
 <img src="C:\Users\lequa\Downloads\frame.png" alt="Quang Le" style="width:300px;height: 300px;"/>
 :::
-
 
 ```{=html}
 <div style="position: fixed; right: 20px; bottom: 20px; background-color: #008cba; color: white; padding: 10px 20px; border-radius: 5px; text-align: center; font-size: 13pt; text-decoration: none;">
@@ -210,7 +217,6 @@ My name is **Minh Le**, you can also call me Quang (my old name). I am a junior 
 </div>
     
 ```
-
 
 ```{=html}
 <div style="background-color: black; display: flex; align-items: center; padding: 10px;">
@@ -223,5 +229,3 @@ My name is **Minh Le**, you can also call me Quang (my old name). I am a junior 
     </p>
 </div>
 ```
-
-
