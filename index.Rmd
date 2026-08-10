@@ -50,8 +50,8 @@ body {
 
 <div class="navbar"> 
   <a href="https://minhlemath2k3.github.io">About Me</a>
-  <a href="https://minhlemath2k3.github.io/https-minhlemath2k3.github.io-projects/">Education and Experience</a>
-  <a href="https://minhlemath2k3.github.io/https-minhlemath2k3.github.io-QA/">Projects</a>
+  <a href="https://minhlemath2k3.github.io/https-quangnhatm1.github.io-projects/">Education and Experience</a>
+  <a href="https://minhlemath2k3.github.io/https-quangnhatm1.github.io-QA/">Projects</a>
       </div>
 ```
 
@@ -194,7 +194,7 @@ have any questions or trouble!***
 
 ```{=html}
 <div style="position: fixed; right: 20px; bottom: 20px; background-color: #008cba; color: white; padding: 10px 20px; border-radius: 5px; text-align: center; font-size: 13pt; text-decoration: none;">
-    <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-projects/" style="color: white; text-decoration: none; font-weight: bold;">Next Page →</a>
+    <a href="https://minhlemath2k3.github.io/https-quangnhatm1.github.io-projects/" style="color: white; text-decoration: none; font-weight: bold;">Next Page →</a>
 </div>
     
 ```
